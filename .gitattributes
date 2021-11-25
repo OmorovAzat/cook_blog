@@ -1,0 +1,3 @@
+*.js linguist-language=Python
+static/* linguist-venbored
+jquery.js linguist-venbored=false
